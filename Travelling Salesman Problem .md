@@ -74,6 +74,6 @@ if __name__ == "__main__":
 ## OUTPUT
 <img width="750" height="137" alt="image" src="https://github.com/user-attachments/assets/7774b8fc-cdd1-4e89-a2da-3cb4f139a908" />
 
-##RESULT
+## RESULT
 Thus the python program has been executed successfully.
 
